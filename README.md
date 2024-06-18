@@ -1,3 +1,3 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=serhat.sergikaya.serhat-sergikaya)
+<img align= 'right' src='https://visitor-badge.laobi.icu/badge?page_id=serhat.sergikaya.serhat-sergikaya' />
 
 
