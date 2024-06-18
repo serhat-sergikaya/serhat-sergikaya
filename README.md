@@ -6,7 +6,7 @@
     </a>
 </h1>
 
-<h3 align='center'> I am developer from Turkey 🇹🇷</h1>
+<h3 align='center'> I am a  developer from Turkey 🇹🇷</h1>
 
 <br/>
 
