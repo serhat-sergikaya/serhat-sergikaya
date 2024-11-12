@@ -22,8 +22,6 @@
   <br/>
   <br/>
 ⟢ My current avocation is Game Development 🕹️ </p>
-<br/>
-
 <h3 align='center'>﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌</h3>
 
 
