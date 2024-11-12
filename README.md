@@ -6,16 +6,30 @@
     </a>
 </h1>
 
-<h3 align='center'> I am a  developer from Turkey 🇹🇷</h1>
+<h3 align='center'> I am a  「 ✦ Software Engiiner ✦ 」 from Ankara, Turkey</h3>
 
+<h3 align='center'>────────────────────୨ৎ────────────────────</h3>
+
+<h3 align='center'>Education🎓 </h3>
+
+<p align='center'>B.Sc. in Information Systems and Technologies <br/>
+╰┈➤ Bilkent University, Ankara</p>
+
+<h3 align='center'>─────────────────── ⋆⋅☆⋅⋆ ───────────────────</h3>
+
+<h3 align='center'>Skills and Interests ⭐ 🔭</h3>
+<p align='center'> ⟢ I specialize in Web Development 🐱‍💻 
+  <br/>
+  <br/>
+⟢ My current avocation is Game Development 🕹️ </p>
 <br/>
 
-
+<h3 align='center'>﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌</h3>
 
 
 <div align='center'>
   
-  <h4 > Contact me:</h4>  
+  <h2 > Contact me:</h2>  
     
   <a href='mailto:serhatsergikaya@gmail.com'> 
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
@@ -26,7 +40,7 @@
   <a/>
   
   
-  <h2 align= 'center'> My Skills: </h2>
+  <h2 align= 'center'> My Tech Stack: </h2>
   
   <p align="center">
     <a href="https://skillicons.dev">
