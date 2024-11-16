@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=40&duration=1000&pause=500&color=FFDE34&center=true&vCenter=true&multiline=true&random=false&width=435&height=110&lines=Hello+there!%F0%9F%AB%A1;I'm+Serhat+Sergikaya" alt="Typing SVG" /></a>
     </a>
 </h1>
-
+<h3 align='center'>┏━━━━━━━━━━━━━༻❁༺━━━━━━━━━━━━━┓</h3>
 <h3 align='center'> I am a  「 ✦ Software Engiiner ✦ 」 from Ankara, Turkey</h3>
 
 <h3 align='center'>────────────────────୨ৎ────────────────────</h3>
@@ -22,7 +22,10 @@
   <br/>
   <br/>
 ⟢ My current avocation is Game Development 🕹️ </p>
-<h3 align='center'>﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌</h3>
+<h3 align='center'>╰──────────────── •❃°•°❀°•°❃ ────────────────╯</h3>
+<h3 align='center'></h3>
+
+
 
 
 <div align='center'>
