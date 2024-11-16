@@ -17,7 +17,7 @@
 
 <h3 align='center'>─────────────────── ⋆⋅☆⋅⋆ ───────────────────</h3>
 
-<h3 align='center'>➤ Skills and Interests ⭐ 🔭</h3>
+<h3 align='center'>➤ Skills⭐ and Interests🔭</h3>
 <p align='center'> ⟢ I specialize in Web Development 🐱‍💻 
   <br/>
   <br/>
