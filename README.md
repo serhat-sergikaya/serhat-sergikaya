@@ -28,7 +28,7 @@
 
 <div align='center'>
 
-  <h2 > . . . . . ╰──╮ CONTACT ME ╭──╯ . . . . .</h2>  
+  <h2 > ╰──╮ CONTACT ME ╭──╯</h2>  
     
   <a href='mailto:serhatsergikaya@gmail.com'> 
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
@@ -39,7 +39,7 @@
   <a/>
   
   
-  <h2 align= 'center'> . . . . . ╰──╮ TECH STACK ╭──╯ . . . . .</h2>
+  <h2 align= 'center'> ╰──╮ TECH STACK ╭──╯ </h2>
   
   <p align="center">
     <a href="https://skillicons.dev">
@@ -48,7 +48,7 @@
   </p>
 
 
-  <h2 > . . . . . ╰──╮ STATS ╭──╯ . . . . .</h2>  
+  <h2 > ╰──╮ STATS ╭──╯ </h2>  
   <div align="center">
   <img src="https://streak-stats.demolab.com?user=serhat-sergikaya&theme=calm-pink&hide_border=true&card_width=400" alt="GitHub Streak" />
   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhat-sergikaya&layout=compact&theme=calm_pink&hide_border=true&card_width=330"/>
@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=serhat-sergikaya&show_icons=true&theme=calm_pink&hide_border=true&card_width=500"/>
   
   </div>
-
+  <h2 > ╰──╮ CONTRIBUTIONS ╭──╯</h2>  
   <img src="https://github.com/serhat-sergikaya/serhat-sergikaya/blob/output/github-snake-dark.svg"/>
 
   
