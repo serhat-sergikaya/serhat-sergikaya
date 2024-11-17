@@ -45,10 +45,15 @@
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,unity,cs" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,unity,cs,java" />
     </a>
   </p>
-  <img
+
+  
+  <img src="https://streak-stats.demolab.com?user=serhat-sergikaya&theme=calm-pink&hide_border=true" alt="GitHub Streak" />
+    &nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=serhat-sergikaya&show_icons=true&theme=calm_pink&hide_border=true"/>
+
   
 </div>
   
