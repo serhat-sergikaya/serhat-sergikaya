@@ -49,10 +49,12 @@
     </a>
   </p>
 
-  
+  <div align="center">
   <img src="https://streak-stats.demolab.com?user=serhat-sergikaya&theme=calm-pink&hide_border=true" alt="GitHub Streak" />
     &nbsp
   <img src="https://github-readme-stats.vercel.app/api?username=serhat-sergikaya&show_icons=true&theme=calm_pink&hide_border=true"/>
+
+  </div>
 
   
 </div>
