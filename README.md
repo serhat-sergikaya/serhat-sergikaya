@@ -54,10 +54,10 @@
   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhat-sergikaya&layout=compact&theme=calm_pink&hide_border=true&card_width=330"/>
     
   <img src="https://github-readme-stats.vercel.app/api?username=serhat-sergikaya&show_icons=true&theme=calm_pink&hide_border=true&card_width=500"/>
-
-  
   
   </div>
+
+  <img src="https://github.com/serhat-sergikaya/serhat-sergikaya/blob/output/github-snake-dark.svg"/>
 
   
 </div>
