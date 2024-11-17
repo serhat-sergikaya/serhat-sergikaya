@@ -50,10 +50,10 @@
   </p>
 
   <div align="center">
-  <img src="https://streak-stats.demolab.com?user=serhat-sergikaya&theme=calm-pink&hide_border=true&card_width=430" alt="GitHub Streak" />
-  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhat-sergikaya&layout=compact&theme=calm_pink&hide_border=true&card_width=350"/>
+  <img src="https://streak-stats.demolab.com?user=serhat-sergikaya&theme=calm-pink&hide_border=true&card_width=400" alt="GitHub Streak" />
+  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhat-sergikaya&layout=compact&theme=calm_pink&hide_border=true&card_width=330"/>
     
-  <img src="https://github-readme-stats.vercel.app/api?username=serhat-sergikaya&show_icons=true&theme=calm_pink&hide_border=true&card_width=600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=serhat-sergikaya&show_icons=true&theme=calm_pink&hide_border=true&card_width=500"/>
 
   
   
