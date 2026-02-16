@@ -14,6 +14,8 @@
 
 <p align='center'>B.Sc. in Information Systems and Technologies <br/>
 ╰┈➤ Bilkent University, Ankara</p>
+<p align='center'>M.Sc. in MultiMedia Technologies <br/>
+╰┈➤ FH Sazburg, Salzburg - ON GOING</p>
 
 <h3 align='center'>─────────────────── ⋆⋅☆⋅⋆ ───────────────────</h3>
 
